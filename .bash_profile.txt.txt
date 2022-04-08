@@ -1,4 +1,0 @@
-alias Закатати='mkdir'
-alias Реструктурувати='cat<<"bogdan">'
-alias Розібрати='rm'
-alias Простукати='less'
